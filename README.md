@@ -12,6 +12,10 @@
 - SIP003 plugins.
 - SIP008 online configuration delivery.
 
+## print Hello
+
+Hello from Rasel
+
 ## Downloads
 
 Download from [releases](https://github.com/shadowsocks/shadowsocks-windows/releases).
